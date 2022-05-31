@@ -19,6 +19,7 @@
 
 - xml: Sintaxe Básica;
 - Kotlin: Sintaxe Básica;
+- Aplicação do conceito de classe, Objeto e Instância com Kotlin;
 - Organização da activity utilizando Constraint Layout;
 - ViewBinding - implementação da vinculação de visualização seguindo as boas práticas;
 - Criação de um botão com função de gerar números aleatórios de 1 a 6;
