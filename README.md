@@ -1,6 +1,6 @@
 # DICE ROLLER APP - Android Kotlin 🎲
 
-## APP Capaz de rolar um dado de 6 lados - Um projeto de estudos baseado no "RollDice" do "Android Developers"
+## APP Capaz de rolar um dado de 6 lados - Um projeto de estudos baseado no "DiceRoller" do "Android Developers"
 ---
 ## 📱 Projeto
 
